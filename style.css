@@ -1,0 +1,66 @@
+.head{
+  margin-bottom: 0px;
+}
+.logo{
+  height: 30%;
+  width: 32%;
+}
+ .item {
+    width: 100%; /*slider width*/
+    max-height: 500px; /*slider height*/
+}
+ .item img {
+    width: 100%; /*img width*/
+}
+.container h3{
+  text-align: center;
+  padding: 25px;
+}
+.aboutus img,p{
+  padding:12px;
+}
+.services a:hover{
+  text-decoration: none;
+  color:black;
+}
+.services a{
+  color:black;
+}
+.contactus img{
+  height:auto;
+  width:100%;
+}
+.heading{
+	font-size:41px;
+}
+.fab{
+	color:#0095ff;
+}
+.foot{
+  background-color: grey;
+  color:white;
+  padding: 30px;
+  margin-top: 15px;
+}
+.foot img{
+  height:59%;
+  width:69%;
+}
+.foot a{
+  color:white;
+  text-decoration: none;
+}
+.foot a:hover{
+  color:black;
+  text-decoration: underline;
+}
+.foot ul,li{
+  list-style-type: none;
+  line-height: 30px;
+  font-size: 20px;
+}
+.footer_bottom{
+  background-color: black;
+  text-align: center;
+  color:white;
+}
